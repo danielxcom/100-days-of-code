@@ -9,5 +9,8 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 Log-Date | Day | WutIDidToday
 --- | --- | ---
 *January 20, 2018* | **1** | Mulled over the D3 architectures my Udemy course provided. 1. General-Update-Pattern, 2. Force-Link, 3. Advanced function calls for setting up distance between nodes or arrangement of data on graphs. 
-
+--- | --- | ---
+*January 21, 2018* | **2** | Learned React basics.
+--- | --- | ---
+*January 22, 2018* | **3-10** | Focused on react state-changing / arrow functions / pointers.
 
