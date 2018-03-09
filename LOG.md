@@ -13,4 +13,9 @@ Log-Date | Day | WutIDidToday
 *January 21, 2018* | **2** | Learned React basics.
 --- | --- | ---
 *January 22, 2018* | **3-10** | Focused on react state-changing / arrow functions / pointers.
-
+--- | --- | ---
+*January 31, 2018* | **11** | State needs to be rectified in a singular component. We use arrow functions for render methods incase we need to change things dynamically without disrupting state.
+--- | --- | ---
+*February 1, 2018* | **12** | Code-alonged with Udemy Instructor. Built page with 32 div boxes that randomly switched colors every 300 m/s.
+--- | --- | ---
+*February 2, 2018* | **13** | Don't accidentally invoke your callback functions inside of your eventhandlers. <button type="button" onClick={this.handleClick()}> Will cause error. Use arrow functions for internal eyword this. Or bind. It is important to render multiple list ele with [e.target...] architecture found in file when handling multiple items.
