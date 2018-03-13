@@ -26,7 +26,7 @@ Log-Date | Day | WutIDidToday
 --- | --- | ---
 *February 7, 2018* | **18-21** | Completed LifeCycle section (29). 
 --- | --- | ---
-*February 11, 2018* | **22** | Refactored Memory game + LifeCycle section.
+*February 11, 2018* | **22** | Reviewed LifeCycle.
 --- | --- | ---
 *February 12, 2018* | **23** | Read documentation / watched YT videos on React's Diff algo / shouldComponentUpdate component so we can exit from Update cycle if there is no reason to re-render. 
 --- | --- | ---
@@ -36,3 +36,16 @@ Log-Date | Day | WutIDidToday
 --- | --- | ---
 *February 23, 2018* | **26** | Read github doc on react-components to get grasp of LifeCycle Methods. Re-read notes on previous coding samples from Advanced Web Development course on UDEMY.
 --- | --- | ---
+*February 24, 2018* | **27** | Completed Todolist component, ported frontend component to 8080 while node backend port at 8081 with .env.development manipulation of c9's cloud editor. Dangerous if left in code. 
+--- | --- | ---
+*February 25, 2018* | **28** | Loaded todo node server as api, created todoitem component, added todoform component.
+--- | --- | ---
+*February 26, 2018* | **29** | Completed Todo delete and toggle for cross-out on todolist. Refactored along with lesson to create async functions that organized fetch requests outside of main app.
+--- | --- | ---
+*February 27, 2018* | **30** | Reread documentation and edited readme file. Tested app to take in other apis.
+--- | --- | ---
+*February 28, 2018* | **31** | Redid the files to get a sense of where everything is going. Made chart of priorities and components IRL. Pushed to Git.
+--- | --- | ---
+*SKIP 10 DAYS for interviews / YT codealongs / Relaxation*
+--- | --- | ---
+
