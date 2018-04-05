@@ -11,3 +11,5 @@
 [Resources Used](Resources.md)
 
 #### GOAL: Deploy Web Applications / Complete Courses / Solidify Knowledge of Frontend Web Development.
+
+Holygrail of Github. https://blog.plover.com/prog/git-ff-error.html
