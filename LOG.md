@@ -46,6 +46,8 @@ Log-Date | Day | WutIDidToday
 --- | --- | ---
 *February 28, 2018* | **31** | Redid the files to get a sense of where everything is going. Made chart of priorities and components IRL. Pushed to Git.
 --- | --- | ---
-*SKIP 10 DAYS for interviews / YT codealongs / Relaxation*
+*SKIP 22 DAYS for interviews / YT codealongs / Relaxation*
 --- | --- | ---
-
+*March 23, 2018* | **32-45** | Code challenges, all day, everyday. https://repl.it/@Dxcom for other coding assessments. Didn't get a chance to log udemy courses in prep as I was out of town. Mostly listened to them than coded them.
+--- | --- | ---
+*April 4, 2018* | **46** | Finished Assessment 1 - Assessment 2. Waiting for results by TAs. It's arguably harder to code challenge than to read / code-along w/ exercises. Should checkout freeCodecamp's nodejs git. P. good from what I saw.
